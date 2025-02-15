@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      # hudai
 
 permissions:
   contents: read
